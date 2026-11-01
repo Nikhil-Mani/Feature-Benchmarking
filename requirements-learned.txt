@@ -1,0 +1,7 @@
+-r requirements.txt
+torch>=2.0
+torchvision>=0.15
+kornia>=0.7.2
+tqdm>=4.65
+packaging
+pillow

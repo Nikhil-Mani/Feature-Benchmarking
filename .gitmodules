@@ -1,0 +1,9 @@
+[submodule "lightglue"]
+	path = third_party/lightglue
+	url = https://github.com/cvg/LightGlue.git
+[submodule "xfeat"]
+	path = third_party/xfeat
+	url = https://github.com/verlab/accelerated_features.git
+[submodule "opencv"]
+	path = third_party/opencv
+	url = https://github.com/opencv/opencv.git
